@@ -4,3 +4,4 @@
 </a>
 - 🌱 currently hacking on Java, Python, Node JS, Socket io
 - 📫 I believe in sharing so, let's share and learn.
+-🧐 You may find me tweeting on random stuff about my life as a beginner on [Twitter](https://twitter.com/enakshi_pal) and [LinkedIn](www.linkedin.com/in/enakshi-pal-39129317b)
